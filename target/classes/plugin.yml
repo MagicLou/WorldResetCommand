@@ -1,0 +1,7 @@
+name: WorldResetCommand
+version: '1.0-SNAPSHOT'
+main: de.magic_lou.worldresetcommand.WorldResetCommand
+api-version: '1.20'
+commands:
+  reset:
+    description: loads a new world
